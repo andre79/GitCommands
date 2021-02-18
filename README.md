@@ -49,3 +49,21 @@
     - git log --pretty=format:"%h - %p: Feito por %an"
     - git log --pretty=format:"%h: %ar - (%ae) %an"
     - git log --pretty=format:"%h %s"
+
+# Listando/Mudando de Branch
+    - git branch
+    - git checkout <sha> (detached head)| <branch>
+
+# Desfazendo Alterações Específicas
+    - git checkout <nome do arquivo> (Irá voltar para versão comitada)
+    - git reset --hard
+    - git reset (lista arquivos que serão resetados)
+    * Não funciona em arquivos não ratreados
+
+    - git clean -f (remove arquivos não rastreados)
+
+# Criando um .gitignore
+    - .<extensao>
+    - .<tipo>
+    - *.bmp
+    - procurar o arquivo .gitignore no GitHub (modelo projeto).
