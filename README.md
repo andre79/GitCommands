@@ -32,6 +32,20 @@
     - git diff --cached
     - git diff --staged
 
-#
+# Visualizando Histórico do GIT LOG
+    - git log
+    - git log --oneline
+    - log log -n
+    - git log -p
+    - git log --stat
+    - git log --shortstat
+    - git log --name-only
+    - git log --name-status
+    - git log --abbrev-commit
+    - git log --relative-date
+    - git log --graph
 
-
+# Formato --pretty=format no Log    
+    - git log --pretty=format:"%h - %p: Feito por %an"
+    - git log --pretty=format:"%h: %ar - (%ae) %an"
+    - git log --pretty=format:"%h %s"
