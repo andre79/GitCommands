@@ -67,3 +67,6 @@
     - .<tipo>
     - *.bmp
     - procurar o arquivo .gitignore no GitHub (modelo projeto).
+
+# Clonando Projetos/Arquivos mantendo históriocos
+    - git clone <nome_pasta_origin>/ <nome_pasta_destino>
