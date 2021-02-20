@@ -213,8 +213,10 @@
      - https://www.gitkraken.com/
     ## Visual Studio: 
      - https://code.visualstudio.com/download
+     - https://visualstudio.microsoft.com/pt-br/
     ## Android Studio: 
      - https://developer.android.com/studio 
 
 # Encerramento
-
+    - Listas comandos.
+    
