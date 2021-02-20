@@ -91,6 +91,7 @@
     4.2 Cria o título do pull request, coloca o comentário no corpo da descrição é clica em Create pull request.
     4.3 Você pode criar um pull request, ou um rascunho.
     5. No lado da pessoa. que Recebe o Pull Request. 
-    5.1 Pode enviar mensagem quem solicitou enviou pull request. Negociar e refletir sobre as mudançae e incluir no projeto principal.
+    5.1 Pode enviar mensagem quem solicitou enviou pull request. 
+    5.2 Negociar e refletir sobre as mudançae e incluir no projeto principal.
 
 # 
