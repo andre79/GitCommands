@@ -1,7 +1,5 @@
 # GitCommands
 
-# GitCommands
-
 # Iniciar Repositório
     - git init
 
@@ -76,4 +74,13 @@
 # GitHub - Ao criar um GitHub.
     - Também demos acesso ao (Público e Privado), podemos escolher um .gitIgnore nos campos de criação do repositório. A Licença do MIT é a mais comum, caso voc queira deixar publico o código.
 
-# Funcionalidades do Repositório 
+# Funcionalidades do Repositório
+    - Edição
+    - Incluisão de arquivo (commit e  pull e push)
+    - git pull origin main
+
+# Comandos Stars, Fork, Pull e Request.
+    Stars: São itens para favoritas projetos e acompanhá-los.
+    Watch: Serve para vocês ser notificado dos andamento de todos os projeto que você deseja acompanhar.
+    Fork: Faz um clone para o seu perfil, agora você pode contribuir com o código.
+
