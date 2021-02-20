@@ -164,19 +164,48 @@
     ## Quando surgir o conflito.
     - git mergetool
 
-# SCM -Source COde Management
+# SCM -Source Code Management
 
 # Pull Request From CLI
     - git commit -a -m "Nome do comite junto com o inclusão de arquivos"
     - git push -u origin <nome da tarefa>
 
 # Comando Intermediario
+    ## Tag
     - git tag -a "nome da versão ou ponto de restauração"
+        Não esqueça de fazer o comentario especifico da tag.
     - git tag (para listar)
+    - git tag -d <nome_da_tag>
+    - git tag --delete origin V1.0
 
+    ## Stash
+    - git stash
+    - git stash save "mensagem"
+    - git stash apply
+    - git stash pop
+    - git stash drop "codigo do stash"
+    - git stash list
     
+    ## Revertendo Commits
+    - git reset --hard HEAD~1 (volta 1 comite -  perde tudo)
+    - git commit --amend (adiciona no mesmo commite)
 
+    ## Git fetch 
+    - git fetch
 
+    ## Rebase
+    - git rebase
 
+    ## Alias
+    - git config --global alias.s status
+    - git config --global --unset alias.s
 
+    ## Remote (url associadas)
+    - git remote -v
+
+    ## Grep
+    git branch | grep R1 (busca branch que tenha R1)
+
+# Ferramentas 
+    Sourcetree: https://www.sourcetreeapp.com/
     
