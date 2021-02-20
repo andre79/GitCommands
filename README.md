@@ -207,9 +207,14 @@
     git branch | grep R1 (busca branch que tenha R1)
 
 # Ferramentas 
-    Sourcetree: https://www.sourcetreeapp.com/
-    GitKraken: https://www.gitkraken.com/
-    Visual Studio: https://code.visualstudio.com/download
-    Android Studio: 
+    ## Sourcetree: 
+     - https://www.sourcetreeapp.com/
+    ## GitKraken: 
+     - https://www.gitkraken.com/
+    ## Visual Studio: 
+     - https://code.visualstudio.com/download
+    ## Android Studio: 
+     - https://developer.android.com/studio 
 
 # Encerramento
+
