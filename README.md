@@ -218,5 +218,5 @@
      - https://developer.android.com/studio 
 
 # Encerramento
-    - Listas comandos.
+    - Listas de comandos.
     
