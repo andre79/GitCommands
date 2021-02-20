@@ -71,4 +71,9 @@
 
 # Clonando Projetos/Arquivos mantendo históriocos
     - git clone <nome_pasta_origin>/ <nome_pasta_destino>
-    - git clone 
+    - git clone https://github.com/andre79/GitCommands.git
+
+# GitHub - Ao criar um GitHub.
+    - Também demos acesso ao (Público e Privado), podemos escolher um .gitIgnore nos campos de criação do repositório. A Licença do MIT é a mais comum, caso voc queira deixar publico o código.
+
+# Funcionalidades do Repositório 
