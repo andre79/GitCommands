@@ -208,4 +208,8 @@
 
 # Ferramentas 
     Sourcetree: https://www.sourcetreeapp.com/
-    
+    GitKraken: https://www.gitkraken.com/
+    Visual Studio: https://code.visualstudio.com/download
+    Android Studio: 
+
+# Encerramento
