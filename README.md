@@ -106,5 +106,19 @@
     5. No lado da pessoa. que Recebe o Pull Request. 
     5.1 Pode enviar mensagem quem solicitou enviou pull request. 
     5.2 Negociar e refletir sobre as mudançae e incluir no projeto principal.
+    5.3 Caso não haja interesse uma mensagem é escrita e o pull request pode ser fechado.
 
-# 
+# Issues, Milestones e Labels
+    **Issues:** Através da aba issues, você pode informar um erro encontrado no código. Observe a lista de
+    erros antes de comentar.
+    **Labels:** São usadas para otificar o estatos das issues, exemplo:
+    ## Bug
+    ## Documentation
+    ## Duplicate
+    ## enhancement
+    ## Good first issues
+    ## Help wanted
+    ## Invalid
+    ## Questions
+    ## Wontfix
+    **Milestones:**
