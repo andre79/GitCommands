@@ -1,14 +1,14 @@
 # GitCommands
-    <i>O que você aprenderá</i>
+    **O que você aprenderá**
     Conceitos sólidos a respeito de controle de versão usando Git
     Saber como versionar arquivos e ter controle completo sobre o fluxo do versionamento
     
     Inúmeros comandos do Git e como fazer o versionamento do seu projeto
     Há algum requisito ou pré-requisito para o curso?
-    Um computador com internet <i>(Windows, Mac, Linux)</i>
+    Um computador com internet **(Windows, Mac, Linux)**
     Criar um conta no GitHub ou Bitbucket para ser usada durante o curso
     
-    <i>Para quem é este curso:</i>
+    **Para quem é este curso:**
     Qualquer pessoa que tenha vontade em aprender Git e suas funcionalidades
     Engenheiros de software, desenvolvedores, freelancers novos no git
     Profissionais que queiram gerenciar histórico de seus projetos
@@ -27,10 +27,10 @@
 
 # Comitando Arquivos
     Descrições no comite.
-    <i>[ADD] Adicionado.</i>
-    <i>[REN] Renomeado.</i>
-    <i>[UPD] Atualizado.</i>
-    <i>[FIX] Corrigido.</i>
+    **[ADD] Adicionado.**
+    **[REN] Renomeado.**
+    **[UPD] Atualizado.**
+    **[FIX] Corrigido.**
     
     - git commit -m "[XXX] Texto da atividade"
 
@@ -84,7 +84,7 @@
     - git clone <nome_pasta_origin>/ <nome_pasta_destino>
     - git clone https://github.com/andre79/GitCommands.git
 
-# GitHub - Ao criar um <i>GitHub</i>.
+# GitHub - Ao criar um **GitHub**.
     - Também demos acesso ao (Público e Privado), podemos escolher um .gitIgnore nos campos de criação do repositório. A Licença do MIT é a mais comum, caso voc queira deixar publico o código.
 
 # Funcionalidades do Repositório
@@ -92,13 +92,13 @@
     - Incluisão de arquivo (commit e  pull e push)
     - git pull origin main
 
-# Comandos <i>Stars</i>, <i>Fork</i>, <i>Pull</i> e Request.
-    <i>Stars:</i> São itens para favoritas projetos e acompanhá-los.
-    <i>Watch:</i> Serve para vocês ser notificado dos andamento de todos os projeto que você deseja acompanhar.
-    <i>Fork:</i> Faz um clone para o seu perfil, agora você pode contribuir com o código.
-    1. "<i>Forka</i>" o proketo para o seu perfil.
+# Comandos **Stars**, **Fork**, **Pull** e Request.
+    **Stars:** São itens para favoritas projetos e acompanhá-los.
+    **Watch:** Serve para vocês ser notificado dos andamento de todos os projeto que você deseja acompanhar.
+    **Fork:** Faz um clone para o seu perfil, agora você pode contribuir com o código.
+    1. "**Forka**" o proketo para o seu perfil.
     2. Clona o projeto na sua maquina.
-    3. Faz as alterações, "<i>commita</i>" e "<i>pusha</i>".
+    3. Faz as alterações, "**commita**" e "**pusha**".
     4. Criando um "pull request". Verifica se o projeto origin e o projeto destino não possuem conflitos
     4.1 Verifica se o ststus no github está "Able to Merge".
     4.2 Cria o título do pull request, coloca o comentário no corpo da descrição é clica em Create pull request.
