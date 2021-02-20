@@ -121,4 +121,58 @@
     ## Invalid
     ## Questions
     ## Wontfix
-    **Milestones:**
+    **Milestones:** Pode ser usada para preparar versões e também encaminhar issues para serem resolvidas
+    em milestones especificas.
+
+# Readme
+    - Dillinger Url:https://dillinger.io/
+
+# Branch
+    - git branch
+    - git branch development
+    - git checkout -b <nome_da_nova_tarefa>
+    - git push --set-upstream origin develop
+    - git push -u origin develop
+    - git branch -d <nome_da_branch>
+    - git branch -D <nome_da_branch>
+    - git checkout <nome_da_branch>
+    - git push --delete origin <nome_da_branch>
+    - git pull (também atualiza a lista das branchs)
+    - git branch -m "<nome_novo__da_branch>"
+        Sequência a ser seguida
+            1. git pull
+            2. git branch -m TAREFA_1
+            3. git push --delete origin TAREFA_0
+            4. git push origin TAREFA_1
+
+# Mescalando (merge) Projetos
+    - git pull (na master)
+    - git merge develop
+    - git status
+    - git push origin master
+
+# Resolvendo conflitos
+    - git pull 
+     
+    ## Baixa o Kdiff3 (2014)
+    - git mergetool
+    - git config --global --list
+    - git config --global --add merge.tool kdiff3
+    - git config --global --add mergetool.kdiff3.path "C:\Program Files\KDiff3\kdiff3.exe"
+    - git config --global --add mergetool.kdiff3.trustExitCode false
+
+    ## Quando surgir o conflito.
+    - git mergetool
+
+# SCM -Source COde Management
+
+# Pull Request From CLI
+    - git commit -a -m "Nome do comite junto com o inclusão de arquivos"
+    - git push -u origin <nome da tarefa>
+
+    
+
+
+
+
+    
