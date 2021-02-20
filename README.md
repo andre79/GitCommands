@@ -170,6 +170,10 @@
     - git commit -a -m "Nome do comite junto com o inclusão de arquivos"
     - git push -u origin <nome da tarefa>
 
+# Comando Intermediario
+    - git tag -a "nome da versão ou ponto de restauração"
+    - git tag (para listar)
+
     
 
 
