@@ -1,4 +1,17 @@
 # GitCommands
+    <b>O que você aprenderá</b>
+    Conceitos sólidos a respeito de controle de versão usando Git
+    Saber como versionar arquivos e ter controle completo sobre o fluxo do versionamento
+    
+    Inúmeros comandos do Git e como fazer o versionamento do seu projeto
+    Há algum requisito ou pré-requisito para o curso?
+    Um computador com internet <b>(Windows, Mac, Linux)</b>
+    Criar um conta no GitHub ou Bitbucket para ser usada durante o curso
+    
+    <b>Para quem é este curso:</b>
+    Qualquer pessoa que tenha vontade em aprender Git e suas funcionalidades
+    Engenheiros de software, desenvolvedores, freelancers novos no git
+    Profissionais que queiram gerenciar histórico de seus projetos
 
 # Iniciar Repositório
     - git init
